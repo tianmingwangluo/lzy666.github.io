@@ -20,8 +20,8 @@ layout: home
 
 
 hero:
-  name: 三二一
-  text: "wbvi"
+  name: 天冥科技
+  text: "TM"
   tagline: 路漫漫其修道远，吾将上下而求索
   image:
     src: /logo.png
@@ -65,9 +65,9 @@ features:
   - icon: 
       dark: /vitepress.png
       light: /vitepress-light.png
-    title: 斜杆
-    details: 平平无奇。
-    link: https://wbvi.github.io
+    title: 朋友圈
+    details: 平平无奇
+    link: https://pyq.best
     linkText: 点击直达
 ---
 <style>
